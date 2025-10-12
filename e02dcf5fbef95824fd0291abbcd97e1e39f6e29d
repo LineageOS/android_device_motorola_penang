@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0fb8a170_1655cd53",
+        "filename": "audio/audio_policy_volumes.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:02:47Z",
+      "side": 0,
+      "message": "Restore all HEARING_AID changes in this file, here and below",
+      "revId": "e02dcf5fbef95824fd0291abbcd97e1e39f6e29d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b596d153_77c8b595",
+        "filename": "audio/default_volume_tables.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:02:47Z",
+      "side": 0,
+      "message": "Restore these 2 entries",
+      "revId": "e02dcf5fbef95824fd0291abbcd97e1e39f6e29d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

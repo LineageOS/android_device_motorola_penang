@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b68e8175_8c4c5488",
+        "filename": "audio/audio_platform_info.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:02:47Z",
+      "side": 1,
+      "message": "Restore tabs in these 2 lines to make the diff with other devices smaller",
+      "revId": "8bc090f3a456f079b21af24a12ac08256afbe8c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "467bd1c3_5760f563",
+        "filename": "audio/audio_policy_volumes.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:02:47Z",
+      "side": 1,
+      "message": "4 spaces instead of tab",
+      "revId": "8bc090f3a456f079b21af24a12ac08256afbe8c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cf0872d5_9f81b255",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:02:47Z",
+      "side": 1,
+      "message": "This file isn\u0027t used in OSS audio HAL",
+      "range": {
+        "startLine": 38,
+        "startChar": 74,
+        "endLine": 38,
+        "endChar": 88
+      },
+      "revId": "8bc090f3a456f079b21af24a12ac08256afbe8c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
