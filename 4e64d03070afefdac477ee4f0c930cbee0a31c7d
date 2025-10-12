@@ -1,0 +1,78 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "90468fc1_eb790558",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:12:50Z",
+      "side": 1,
+      "message": "Please also run sort-blobs-list in proprietary-files.txt",
+      "revId": "4e64d03070afefdac477ee4f0c930cbee0a31c7d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "86cf94df_683743fc",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:12:50Z",
+      "side": 1,
+      "message": "Remove this? 64bit isn\u0027t used by anything",
+      "revId": "4e64d03070afefdac477ee4f0c930cbee0a31c7d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c5773f5b_3059e251",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 270,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:12:50Z",
+      "side": 1,
+      "message": "Just keep your devices\u0027 config files, not all of them",
+      "range": {
+        "startLine": 256,
+        "startChar": 0,
+        "endLine": 270,
+        "endChar": 33
+      },
+      "revId": "4e64d03070afefdac477ee4f0c930cbee0a31c7d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1ff25024_d58fb6ab",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 275,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:12:50Z",
+      "side": 1,
+      "message": "Remove unused firmware, just keep what the device uses",
+      "revId": "4e64d03070afefdac477ee4f0c930cbee0a31c7d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
