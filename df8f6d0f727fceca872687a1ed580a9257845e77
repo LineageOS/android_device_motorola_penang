@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "69a94716_f2e65563",
+        "filename": "resource-overlay/device/Frameworks/res/xml/power_profile.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-12T20:05:26Z",
+      "side": 0,
+      "message": "Restore header",
+      "revId": "df8f6d0f727fceca872687a1ed580a9257845e77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
