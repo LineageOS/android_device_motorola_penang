@@ -16,6 +16,24 @@
       "message": "Restore .display0 here and below",
       "revId": "c8c39370cc658a9b64f5ec4d6232cf0fa62b1605",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a5cd8d7_a6c5b27b",
+        "filename": "resource-overlay/device/Frameworks/res/xml/power_profile.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 27312
+      },
+      "writtenOn": "2025-10-13T19:00:06Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0a1ce8d0_6703907f",
+      "revId": "c8c39370cc658a9b64f5ec4d6232cf0fa62b1605",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
